@@ -3,7 +3,7 @@ def binary_search_helper(arr, val, low , high):
         return "NO MATCH"
     
     mid = low + ((high - low) // 2)
-
+    
     if arr[mid] == val:
         print("The value is in Index : {} \n...".format(mid))
         return mid
