@@ -1,6 +1,5 @@
-# python-problems
-Python problems
+Programming problems solved with python
 
 ## I. Array Problems
-1.Binary Search - Interative
-2.Binary Search - Recursion
+* 1.Binary Search - Interative
+* 2.Binary Search - Recursion
