@@ -21,7 +21,7 @@ def findRotationSearchHelper(arr, low, high, key):
 
 def findRotationSearch(arr, key):
     return (findRotationSearchHelper(arr, 0, len(arr)-1, key))
-
-arr = (4, 5, 6, 1, 2, 3)
+    
+arr = [4, 5, 6, 1, 2, 3]
 index = findRotationSearch(arr, 2)
 print("Value is at index : {}".format(index))

@@ -12,9 +12,9 @@ def findSmallest(arr1,arr2,arr3):
             p3=p3+1
     return "NO MATCH!"
 
-arr1 = (5,6,7,20,30,54)
-arr2 = (0,1,2,6,7,23,60,104)
-arr3 = (3,4,6,20,25)
+arr1 = [5,6,7,20,30,54]
+arr2 = [0,1,2,6,7,23,60,104]
+arr3 = [3,4,6,20,25]
 
 smallest = findSmallest(arr1, arr2, arr3)
 print(smallest)

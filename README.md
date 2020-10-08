@@ -6,3 +6,5 @@ Programming problems solved with python
 * Pivot or Rotation Problem
 * Search in Rotated Array
 * Find by comparision
+* Target Triplet [Work in progress]
+* Move to 1 side 

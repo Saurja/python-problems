@@ -16,7 +16,7 @@ def binary_search(arr, val):
     return binary_search_helper(arr, val, 0, len(arr)-1)
 
 
-arr = (1,2,3,7,9,12,13,18,20)
+arr = [1,2,3,7,9,12,13,18,20]
 val = 12
 binary_search(arr,val)
     

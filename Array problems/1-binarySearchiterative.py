@@ -14,6 +14,6 @@ def binary_search(arr, val):
     
     return "NO MATCH"
 
-arr = (1,2,3,7,9,12,13,18,20)
+arr = [1,2,3,7,9,12,13,18,20]
 val = 18
 binary_search(arr,val)
