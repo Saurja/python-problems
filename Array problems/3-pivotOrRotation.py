@@ -13,5 +13,5 @@ def findRotationHelper(arr, low, high):
     return findRotationHelper(arr, mid+1, high)
 
 arr = (4, 5, 6, 1, 2, 3)
-error = findRotationHelper(arr, 0, len(arr)-1)
-print("Array error at index : {}".format(error))
+pivot = findRotationHelper(arr, 0, len(arr)-1)
+print("Array pivot at index : {}".format(pivot))

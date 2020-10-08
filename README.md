@@ -4,3 +4,5 @@ Programming problems solved with python
 * Binary Search - Interative
 * Binary Search - Recursion
 * Pivot or Rotation Problem
+* Search in Rotated Array
+* Find by comparision
