@@ -8,3 +8,4 @@ Programming problems solved with python
 * Find by comparision
 * Target Triplet [Work in progress]
 * Move to 1 side 
+* Sell at Max Profit
